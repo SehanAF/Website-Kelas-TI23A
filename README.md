@@ -1,5 +1,5 @@
 # Website Kelas TI23A
-Tentang Proyek Ini
+## Tentang Proyek Ini
 Web Kelas TI23A adalah platform digital yang dirancang untuk meningkatkan interaksi dan pengalaman pembelajaran di Universitas Nusa Putra. Proyek ini mencakup berbagai fitur yang mendukung komunikasi kelas, manajemen tugas, dan pembelajaran kolaboratif.
 
 ## Fitur
