@@ -52,3 +52,9 @@
   .name {
     color: #864AF9;
   }
+  .me-5 {
+    margin-left: 48px;
+  }
+  .border {
+   background-color: gray; 
+  }
