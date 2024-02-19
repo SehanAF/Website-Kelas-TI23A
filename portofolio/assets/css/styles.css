@@ -1,3 +1,4 @@
+
 .btn-outline-success {
     --bs-btn-color: #864AF9;
     --bs-btn-border-color: #864AF9;
@@ -56,5 +57,30 @@
     margin-left: 48px;
   }
   .border {
-   background-color: gray; 
+   background-color: rgb(66, 66, 66); 
+  }
+  .sosmed {
+    background-color: #2d193a59;
+  }
+  .border-2 {
+    --bs-border-color: #7641d833;
+  }
+  .skill {
+    background-color: #2d193a59;
+    --bs-border-color: #7641d85d;
+  }
+  .border-1 {
+    --bs-border-color: rgba(255, 255, 255, 0.205);
+  }
+  .footer {
+    background-color: #212529;
+    --bs-border-color: white;
+  }
+  .marketing .d-flex {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  .marketing .d-flex p {
+    margin-right: .75rem;
+    margin-left: .75rem;
   }
